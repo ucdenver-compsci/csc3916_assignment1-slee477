@@ -1,4 +1,8 @@
-# Assignment One
+
+#Postman Collection
+https://www.postman.com/slee477/workspace/csci3916-steffi/collection/32618005-ff9e00ff-8eac-4039-8b5c-3ba28598473b?action=share&source=copy-link&creator=32618005&active-environment=3d24d8d9-6e7e-481d-860f-16c9b24f3edd
+
+
 ## Purpose
 The purpose of this assignment is to setup your GitHub and Heroku (or Rendor) instances for future assignments
 
